@@ -1,4 +1,5 @@
 # ArtisticQuality for Human referecne, LLM's know these terms as 'Artistic Quality'
+- Aged
 - Balance
 - Unity
 - Harmony
